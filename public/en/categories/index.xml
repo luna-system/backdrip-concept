@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on backdrip</title>
-    <link>http://localhost:1313/en/categories/</link>
+    <link>https://example.com/en/categories/</link>
     <description>Recent Posts in Categories on backdrip</description>
     <generator>Hugo 0.148.2</generator>
     <language>en-US</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Tue, 12 Aug 2025 23:13:08 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 23:28:54 +0000</lastBuildDate>
+    <atom:link href="https://example.com/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authoring</title>
-      <link>http://localhost:1313/en/categories/authoring/</link>
+      <link>https://example.com/en/categories/authoring/</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/categories/authoring/</guid>
+      <guid>https://example.com/en/categories/authoring/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Configuration</title>
-      <link>http://localhost:1313/en/categories/configuration/</link>
+      <link>https://example.com/en/categories/configuration/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/categories/configuration/</guid>
+      <guid>https://example.com/en/categories/configuration/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Homepage</title>
-      <link>http://localhost:1313/en/categories/homepage/</link>
+      <link>https://example.com/en/categories/homepage/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/categories/homepage/</guid>
+      <guid>https://example.com/en/categories/homepage/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/en/categories/test/</link>
+      <link>https://example.com/en/categories/test/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/categories/test/</guid>
+      <guid>https://example.com/en/categories/test/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Katex</title>
-      <link>http://localhost:1313/en/categories/katex/</link>
+      <link>https://example.com/en/categories/katex/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/categories/katex/</guid>
+      <guid>https://example.com/en/categories/katex/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Latex</title>
-      <link>http://localhost:1313/en/categories/latex/</link>
+      <link>https://example.com/en/categories/latex/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/categories/latex/</guid>
+      <guid>https://example.com/en/categories/latex/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Tufte-Css</title>
-      <link>http://localhost:1313/en/categories/tufte-css/</link>
+      <link>https://example.com/en/categories/tufte-css/</link>
       <pubDate>Sat, 20 Feb 2016 13:56:01 -0800</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/categories/tufte-css/</guid>
+      <guid>https://example.com/en/categories/tufte-css/</guid>
       <description></description>
       
     </item>

@@ -2,270 +2,270 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://example.com/en/about/</loc>
     <lastmod>2025-08-12T23:03:05+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/author/</loc>
+    <loc>https://example.com/en/author/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/author/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/author/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/author/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/author/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/categories/authoring/</loc>
+    <loc>https://example.com/en/categories/authoring/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/authoring/</loc>
+    <loc>https://example.com/en/tags/authoring/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/authoring/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/authoring/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/authoring/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/authoring/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/authoring-custom-taxonomy/</loc>
+    <loc>https://example.com/en/post/authoring-custom-taxonomy/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://example.com/en/categories/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/categories/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/categories/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/categories/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/categories/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://example.com/en/tags/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/taxonomy/</loc>
+    <loc>https://example.com/en/tags/taxonomy/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/taxonomy/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/taxonomy/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/taxonomy/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/taxonomy/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/alt/</loc>
+    <loc>https://example.com/en/tags/alt/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/alt/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/alt/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/alt/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/alt/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/audio/</loc>
+    <loc>https://example.com/en/tags/audio/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/audio/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/audio/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/audio/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/audio/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/authoring-cover-images-and-audio-article/</loc>
+    <loc>https://example.com/en/post/authoring-cover-images-and-audio-article/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/mengatur-sampul-dan-audio/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/authoring-cover-images-and-audio-article/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-sampul-dan-audio/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/authoring-cover-images-and-audio-article/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/content/</loc>
+    <loc>https://example.com/en/tags/content/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/cover/</loc>
+    <loc>https://example.com/en/tags/cover/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/cover/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/cover/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/cover/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/cover/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/images/</loc>
+    <loc>https://example.com/en/tags/images/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/media/</loc>
+    <loc>https://example.com/en/tags/media/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/media/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/media/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/media/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/media/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/authoring-terms-entry/</loc>
+    <loc>https://example.com/en/post/authoring-terms-entry/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/mengatur-entri-terms/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/authoring-terms-entry/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-entri-terms/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/authoring-terms-entry/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/authoring-redaction-history/</loc>
+    <loc>https://example.com/en/post/authoring-redaction-history/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/mengatur-riwayat-redaksi/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/authoring-redaction-history/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-riwayat-redaksi/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/authoring-redaction-history/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/history/</loc>
+    <loc>https://example.com/en/tags/history/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/redaction/</loc>
+    <loc>https://example.com/en/tags/redaction/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/terms/</loc>
+    <loc>https://example.com/en/tags/terms/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/terms/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/terms/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/terms/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/terms/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/accent/</loc>
+    <loc>https://example.com/en/tags/accent/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/color/</loc>
+    <loc>https://example.com/en/tags/color/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/configuration/</loc>
+    <loc>https://example.com/en/categories/configuration/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/configuration/</loc>
+    <loc>https://example.com/en/tags/configuration/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-discussion/</loc>
+    <loc>https://example.com/en/post/configure-discussion/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/mengatur-diskusi/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/configure-discussion/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-diskusi/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-discussion/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-slides/</loc>
+    <loc>https://example.com/en/post/configure-slides/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/mengatur-slide/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/configure-slides/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-slide/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-slides/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-logo-and-accent-color/</loc>
+    <loc>https://example.com/en/post/configure-logo-and-accent-color/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/mengatur-logo-dan-aksen-warna/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/configure-logo-and-accent-color/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-logo-dan-aksen-warna/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-logo-and-accent-color/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-main-footer/</loc>
+    <loc>https://example.com/en/post/configure-main-footer/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/mengatur-footer-situs/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/configure-main-footer/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-footer-situs/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-main-footer/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-menu/</loc>
+    <loc>https://example.com/en/post/configure-menu/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/mengatur-menu/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/configure-menu/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-menu/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-menu/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/configure-pagefind/</loc>
+    <loc>https://example.com/en/post/configure-pagefind/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/mengatur-pagefind/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/configure-pagefind/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-pagefind/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-pagefind/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/discussion/</loc>
+    <loc>https://example.com/en/tags/discussion/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/footer/</loc>
+    <loc>https://example.com/en/tags/footer/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/homepage/</loc>
+    <loc>https://example.com/en/categories/homepage/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/logo/</loc>
+    <loc>https://example.com/en/tags/logo/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/markdown/</loc>
+    <loc>https://example.com/en/tags/markdown/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/markdown-test/</loc>
+    <loc>https://example.com/en/post/markdown-test/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/tes-markdown/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/markdown-test/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/tes-markdown/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/markdown-test/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/tags/menu/</loc>
+    <loc>https://example.com/en/tags/menu/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/pagefind/</loc>
+    <loc>https://example.com/en/tags/pagefind/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/tags/slide/</loc>
+    <loc>https://example.com/en/tags/slide/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/test/</loc>
+    <loc>https://example.com/en/categories/test/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/post/tufte-features/</loc>
+    <loc>https://example.com/en/post/tufte-features/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/katex/</loc>
+    <loc>https://example.com/en/categories/katex/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/latex/</loc>
+    <loc>https://example.com/en/categories/latex/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/categories/tufte-css/</loc>
+    <loc>https://example.com/en/categories/tufte-css/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://example.com/en/</loc>
     <lastmod>2025-08-12T23:03:05+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/author/a.n.-other/</loc>
+    <loc>https://example.com/en/author/a.n.-other/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/author/author-name/</loc>
+    <loc>https://example.com/en/author/author-name/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>http://localhost:1313/en/stage/budding/</loc>
+    <loc>https://example.com/en/stage/budding/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/stage/budding/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/stage/budding/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/stage/evergreen/</loc>
+    <loc>https://example.com/en/stage/evergreen/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/stage/evergreen/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/stage/evergreen/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/post/</loc>
+    <loc>https://example.com/en/post/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     <changefreq>always</changefreq>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/pos/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/post/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/stage/seedling/</loc>
+    <loc>https://example.com/en/stage/seedling/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/stage/seedling/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/stage/seedling/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/series/</loc>
+    <loc>https://example.com/en/series/</loc>
     
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/series/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/series/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/series/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/series/" />
   </url>
   <url>
-    <loc>http://localhost:1313/en/stage/</loc>
+    <loc>https://example.com/en/stage/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/stage/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/stage/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/stage/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/stage/" />
   </url>
 </urlset>

@@ -205,11 +205,11 @@
   pre        = 'mastodon'
 
 [[footer]]
-  identifier = 'figma'
+  identifier = 'bandcamp'
   pageRef    = '/'
   weight     = 1
-  name       = 'figma'
-  pre        = 'figma'
+  name       = 'bandcamp'
+  pre        = 'bandcamp'
 
 [[footer]]
   identifier = 'hashnode'

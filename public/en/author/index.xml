@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on backdrip</title>
-    <link>http://localhost:1313/en/author/</link>
+    <link>https://example.com/en/author/</link>
     <description>Recent Posts in Author on backdrip</description>
     <generator>Hugo 0.148.2</generator>
     <language>en-US</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Tue, 12 Aug 2025 23:13:08 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 23:28:54 +0000</lastBuildDate>
+    <atom:link href="https://example.com/en/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A.N. Other</title>
-      <link>http://localhost:1313/en/author/a.n.-other/</link>
+      <link>https://example.com/en/author/a.n.-other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/author/a.n.-other/</guid>
+      <guid>https://example.com/en/author/a.n.-other/</guid>
       <description></description>
       
     </item>
     <item>
       <title>Author Name</title>
-      <link>http://localhost:1313/en/author/author-name/</link>
+      <link>https://example.com/en/author/author-name/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>http://localhost:1313/en/author/author-name/</guid>
+      <guid>https://example.com/en/author/author-name/</guid>
       <description></description>
       <enclosure url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_and_styrofoam_%E2%80%93_electrostatic_charge_%28235112299%29.jpg" length="0" type="image/jpeg" />
     </item>

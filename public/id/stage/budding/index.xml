@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kembang on Contoh</title>
-    <link>http://localhost:1313/id/stage/budding/</link>
+    <link>https://example.com/id/stage/budding/</link>
     <description>Artikel Terbaru dalam kembang pada Contoh</description>
     <generator>Hugo 0.148.2</generator>
     <language>id-ID</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Tue, 12 Aug 2025 23:13:08 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/id/stage/budding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 23:28:54 +0000</lastBuildDate>
+    <atom:link href="https://example.com/id/stage/budding/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
