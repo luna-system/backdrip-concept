@@ -1,5 +1,5 @@
 ## Base URL for the site
-baseURL = 'https://example.com/'
+baseURL = 'https://backdrip-concept.pages.dev/'
 ## Site title
 title = 'backdrip'
 ## Use hugo-brewm theme

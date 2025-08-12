@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pagefind on backdrip</title>
-    <link>https://example.com/en/tags/pagefind/</link>
+    <link>https://backdrip-concept.pages.dev/en/tags/pagefind/</link>
     <description>Recent Posts in Pagefind on backdrip</description>
     <generator>Hugo 0.148.2</generator>
     <language>en-US</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Tue, 12 Aug 2025 23:28:54 +0000</lastBuildDate>
-    <atom:link href="https://example.com/en/tags/pagefind/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 23:45:42 +0000</lastBuildDate>
+    <atom:link href="https://backdrip-concept.pages.dev/en/tags/pagefind/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Configure Pagefind</title>
-      <link>https://example.com/en/post/configure-pagefind/</link>
+      <link>https://backdrip-concept.pages.dev/en/post/configure-pagefind/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>https://example.com/en/post/configure-pagefind/</guid>
+      <guid>https://backdrip-concept.pages.dev/en/post/configure-pagefind/</guid>
       <description></description>
       
     </item>

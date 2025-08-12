@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Terms on backdrip</title>
-    <link>https://example.com/en/tags/terms/</link>
+    <link>https://backdrip-concept.pages.dev/en/tags/terms/</link>
     <description>Recent Posts in Terms on backdrip</description>
     <generator>Hugo 0.148.2</generator>
     <language>en-US</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Tue, 12 Aug 2025 23:28:54 +0000</lastBuildDate>
-    <atom:link href="https://example.com/en/tags/terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 23:45:42 +0000</lastBuildDate>
+    <atom:link href="https://backdrip-concept.pages.dev/en/tags/terms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authoring Terms Entry</title>
-      <link>https://example.com/en/post/authoring-terms-entry/</link>
+      <link>https://backdrip-concept.pages.dev/en/post/authoring-terms-entry/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>https://example.com/en/post/authoring-terms-entry/</guid>
+      <guid>https://backdrip-concept.pages.dev/en/post/authoring-terms-entry/</guid>
       <description></description>
       
     </item>

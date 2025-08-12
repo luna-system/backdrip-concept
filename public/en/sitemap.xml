@@ -2,270 +2,270 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/en/about/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/about/</loc>
     <lastmod>2025-08-12T23:03:05+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/author/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/author/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/author/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/author/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/author/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/author/" />
   </url>
   <url>
-    <loc>https://example.com/en/categories/authoring/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/categories/authoring/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/authoring/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/authoring/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/authoring/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/authoring/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/tags/authoring/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/tags/authoring/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/authoring-custom-taxonomy/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/authoring-custom-taxonomy/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/categories/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/categories/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/categories/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/categories/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/categories/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/categories/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/tags/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/tags/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/taxonomy/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/taxonomy/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/taxonomy/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/taxonomy/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/tags/taxonomy/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/tags/taxonomy/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/alt/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/alt/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/alt/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/alt/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/tags/alt/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/tags/alt/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/audio/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/audio/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/audio/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/audio/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/tags/audio/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/tags/audio/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/authoring-cover-images-and-audio-article/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/authoring-cover-images-and-audio-article/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-sampul-dan-audio/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/authoring-cover-images-and-audio-article/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/mengatur-sampul-dan-audio/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/authoring-cover-images-and-audio-article/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/content/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/content/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/cover/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/cover/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/cover/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/cover/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/tags/cover/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/tags/cover/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/images/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/images/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/media/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/media/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/media/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/media/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/tags/media/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/tags/media/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/authoring-terms-entry/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/authoring-terms-entry/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-entri-terms/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/authoring-terms-entry/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/mengatur-entri-terms/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/authoring-terms-entry/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/authoring-redaction-history/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/authoring-redaction-history/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-riwayat-redaksi/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/authoring-redaction-history/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/mengatur-riwayat-redaksi/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/authoring-redaction-history/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/history/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/history/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/redaction/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/redaction/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/terms/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/terms/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/tags/terms/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/tags/terms/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/tags/terms/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/tags/terms/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/accent/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/accent/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/color/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/color/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/categories/configuration/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/categories/configuration/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/configuration/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/configuration/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/post/configure-discussion/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/configure-discussion/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-diskusi/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-discussion/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/mengatur-diskusi/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/configure-discussion/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/configure-slides/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/configure-slides/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-slide/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-slides/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/mengatur-slide/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/configure-slides/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/configure-logo-and-accent-color/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/configure-logo-and-accent-color/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-logo-dan-aksen-warna/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-logo-and-accent-color/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/mengatur-logo-dan-aksen-warna/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/configure-logo-and-accent-color/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/configure-main-footer/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/configure-main-footer/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-footer-situs/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-main-footer/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/mengatur-footer-situs/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/configure-main-footer/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/configure-menu/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/configure-menu/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-menu/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-menu/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/mengatur-menu/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/configure-menu/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/configure-pagefind/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/configure-pagefind/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/mengatur-pagefind/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/configure-pagefind/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/mengatur-pagefind/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/configure-pagefind/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/discussion/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/discussion/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/footer/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/footer/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/categories/homepage/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/categories/homepage/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/logo/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/logo/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/markdown/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/markdown/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/post/markdown-test/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/markdown-test/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/tes-markdown/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/markdown-test/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/tes-markdown/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/markdown-test/" />
   </url>
   <url>
-    <loc>https://example.com/en/tags/menu/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/menu/</loc>
     <lastmod>2025-02-04T00:00:00+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/pagefind/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/pagefind/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/tags/slide/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/tags/slide/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/categories/test/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/categories/test/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/post/tufte-features/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/tufte-features/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/categories/katex/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/categories/katex/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/categories/latex/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/categories/latex/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/categories/tufte-css/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/categories/tufte-css/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/</loc>
     <lastmod>2025-08-12T23:03:05+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/" />
   </url>
   <url>
-    <loc>https://example.com/en/author/a.n.-other/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/author/a.n.-other/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/author/author-name/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/author/author-name/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     </url>
   <url>
-    <loc>https://example.com/en/stage/budding/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/stage/budding/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/stage/budding/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/stage/budding/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/stage/budding/" />
   </url>
   <url>
-    <loc>https://example.com/en/stage/evergreen/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/stage/evergreen/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/stage/evergreen/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/stage/evergreen/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/stage/evergreen/" />
   </url>
   <url>
-    <loc>https://example.com/en/post/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/post/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     <changefreq>always</changefreq>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/pos/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/post/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/pos/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/post/" />
   </url>
   <url>
-    <loc>https://example.com/en/stage/seedling/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/stage/seedling/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/stage/seedling/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/stage/seedling/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/stage/seedling/" />
   </url>
   <url>
-    <loc>https://example.com/en/series/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/series/</loc>
     
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/series/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/series/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/series/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/series/" />
   </url>
   <url>
-    <loc>https://example.com/en/stage/</loc>
+    <loc>https://backdrip-concept.pages.dev/en/stage/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="https://example.com/id/stage/" />
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://example.com/en/stage/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="https://backdrip-concept.pages.dev/id/stage/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="https://backdrip-concept.pages.dev/en/stage/" />
   </url>
 </urlset>

@@ -3,230 +3,230 @@
     "nodes": [{
                 "id": "719fa4fe573bd36a645353bbd28d930b",
                 "title": "Authoring Stage Taxonomy for Digital Garden",
-                "permalink": "https://example.com/en/post/authoring-custom-taxonomy/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/authoring-custom-taxonomy/",
                 "type": "post"
             },{
                 "id": "873ba95f40751c50553ab2667dc36c7c",
                 "title": "Authoring Cover Images and Audio Articles",
-                "permalink": "https://example.com/en/post/authoring-cover-images-and-audio-article/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/authoring-cover-images-and-audio-article/",
                 "type": "post"
             },{
                 "id": "cce34b9ad7731eb353d7756c6827e49b",
                 "title": "Authoring Terms Entry",
-                "permalink": "https://example.com/en/post/authoring-terms-entry/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/authoring-terms-entry/",
                 "type": "post"
             },{
                 "id": "4e581b6215e4f907a7c69f0b0913edf4",
                 "title": "Authoring The Redaction History",
-                "permalink": "https://example.com/en/post/authoring-redaction-history/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/authoring-redaction-history/",
                 "type": "post"
             },{
                 "id": "f2783b25d74db465ebbcc3d1aca12163",
                 "title": "Configure Discussion",
-                "permalink": "https://example.com/en/post/configure-discussion/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/configure-discussion/",
                 "type": "post"
             },{
                 "id": "09331682f8c9231434cfeb1c12135d7d",
                 "title": "Configure Homepage Slides",
-                "permalink": "https://example.com/en/post/configure-slides/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/configure-slides/",
                 "type": "post"
             },{
                 "id": "dd63cc08f431d01796a9c374a58adb71",
                 "title": "Configure Logo and Accent Color",
-                "permalink": "https://example.com/en/post/configure-logo-and-accent-color/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/configure-logo-and-accent-color/",
                 "type": "post"
             },{
                 "id": "8e1b18acb820cb48f420f5d9f591282f",
                 "title": "Configure Main Footer",
-                "permalink": "https://example.com/en/post/configure-main-footer/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/configure-main-footer/",
                 "type": "post"
             },{
                 "id": "439fecffa54490320418536b63747859",
                 "title": "Configure Menu",
-                "permalink": "https://example.com/en/post/configure-menu/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/configure-menu/",
                 "type": "post"
             },{
                 "id": "6cb7dd3a82bd05b17ff03c690b19c62c",
                 "title": "Configure Pagefind",
-                "permalink": "https://example.com/en/post/configure-pagefind/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/configure-pagefind/",
                 "type": "post"
             },{
                 "id": "727ff61f21cd405159d2d835b27cbba7",
                 "title": "Markdown Test",
-                "permalink": "https://example.com/en/post/markdown-test/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/markdown-test/",
                 "type": "post"
             },{
                 "id": "8d8f0be5b35c3233b13a6626f015e624",
                 "title": "Hugo-Tufte Features compatibility",
-                "permalink": "https://example.com/en/post/tufte-features/",
+                "permalink": "https://backdrip-concept.pages.dev/en/post/tufte-features/",
                 "type": "post"
             },
                         {
                             "id": "categories-authoring",
                             "title": "Authoring",
-                            "permalink": "https://example.com/en/categories/authoring/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/categories/authoring/",
                             "type": "categories"
                         },
                         {
                             "id": "categories-configuration",
                             "title": "Configuration",
-                            "permalink": "https://example.com/en/categories/configuration/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/categories/configuration/",
                             "type": "categories"
                         },
                         {
                             "id": "categories-homepage",
                             "title": "Homepage",
-                            "permalink": "https://example.com/en/categories/homepage/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/categories/homepage/",
                             "type": "categories"
                         },
                         {
                             "id": "categories-katex",
                             "title": "Katex",
-                            "permalink": "https://example.com/en/categories/katex/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/categories/katex/",
                             "type": "categories"
                         },
                         {
                             "id": "categories-latex",
                             "title": "Latex",
-                            "permalink": "https://example.com/en/categories/latex/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/categories/latex/",
                             "type": "categories"
                         },
                         {
                             "id": "categories-test",
                             "title": "Test",
-                            "permalink": "https://example.com/en/categories/test/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/categories/test/",
                             "type": "categories"
                         },
                         {
                             "id": "categories-tufte-css",
                             "title": "Tufte-Css",
-                            "permalink": "https://example.com/en/categories/tufte-css/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/categories/tufte-css/",
                             "type": "categories"
                         },
                         {
                             "id": "tags-accent",
                             "title": "Accent",
-                            "permalink": "https://example.com/en/tags/accent/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/accent/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-alt",
                             "title": "Alt",
-                            "permalink": "https://example.com/en/tags/alt/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/alt/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-audio",
                             "title": "Audio",
-                            "permalink": "https://example.com/en/tags/audio/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/audio/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-authoring",
                             "title": "Authoring",
-                            "permalink": "https://example.com/en/tags/authoring/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/authoring/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-color",
                             "title": "Color",
-                            "permalink": "https://example.com/en/tags/color/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/color/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-configuration",
                             "title": "Configuration",
-                            "permalink": "https://example.com/en/tags/configuration/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/configuration/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-content",
                             "title": "Content",
-                            "permalink": "https://example.com/en/tags/content/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/content/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-cover",
                             "title": "Cover",
-                            "permalink": "https://example.com/en/tags/cover/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/cover/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-discussion",
                             "title": "Discussion",
-                            "permalink": "https://example.com/en/tags/discussion/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/discussion/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-footer",
                             "title": "Footer",
-                            "permalink": "https://example.com/en/tags/footer/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/footer/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-history",
                             "title": "History",
-                            "permalink": "https://example.com/en/tags/history/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/history/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-images",
                             "title": "Images",
-                            "permalink": "https://example.com/en/tags/images/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/images/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-logo",
                             "title": "Logo",
-                            "permalink": "https://example.com/en/tags/logo/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/logo/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-markdown",
                             "title": "Markdown",
-                            "permalink": "https://example.com/en/tags/markdown/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/markdown/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-media",
                             "title": "Media",
-                            "permalink": "https://example.com/en/tags/media/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/media/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-menu",
                             "title": "Menu",
-                            "permalink": "https://example.com/en/tags/menu/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/menu/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-pagefind",
                             "title": "Pagefind",
-                            "permalink": "https://example.com/en/tags/pagefind/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/pagefind/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-redaction",
                             "title": "Redaction",
-                            "permalink": "https://example.com/en/tags/redaction/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/redaction/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-slide",
                             "title": "Slide",
-                            "permalink": "https://example.com/en/tags/slide/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/slide/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-taxonomy",
                             "title": "Taxonomy",
-                            "permalink": "https://example.com/en/tags/taxonomy/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/taxonomy/",
                             "type": "tags"
                         },
                         {
                             "id": "tags-terms",
                             "title": "Terms",
-                            "permalink": "https://example.com/en/tags/terms/",
+                            "permalink": "https://backdrip-concept.pages.dev/en/tags/terms/",
                             "type": "tags"
                         },
     ],

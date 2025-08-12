@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alt on Contoh</title>
-    <link>https://example.com/id/tags/alt/</link>
+    <link>https://backdrip-concept.pages.dev/id/tags/alt/</link>
     <description>Artikel Terbaru dalam Alt pada Contoh</description>
     <generator>Hugo 0.148.2</generator>
     <language>id-ID</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Tue, 12 Aug 2025 23:28:54 +0000</lastBuildDate>
-    <atom:link href="https://example.com/id/tags/alt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 23:45:42 +0000</lastBuildDate>
+    <atom:link href="https://backdrip-concept.pages.dev/id/tags/alt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menambahkan Gambar Sampul dan Artikel Audio</title>
-      <link>https://example.com/id/pos/mengatur-sampul-dan-audio/</link>
+      <link>https://backdrip-concept.pages.dev/id/pos/mengatur-sampul-dan-audio/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       <author>Author Name</author>
-      <guid>https://example.com/id/pos/mengatur-sampul-dan-audio/</guid>
+      <guid>https://backdrip-concept.pages.dev/id/pos/mengatur-sampul-dan-audio/</guid>
       <description></description>
       <enclosure url="https://upload.wikimedia.org/wikipedia/commons/4/4d/Cat_and_styrofoam_%E2%80%93_electrostatic_charge_%28235112299%29.jpg" length="0" type="image/jpeg" />
     </item>
