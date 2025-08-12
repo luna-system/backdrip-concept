@@ -1,3 +1,8 @@
+---
+cover: 'https://raw.githubusercontent.com/foxihd/hugo-et-hd/master/static/svg/flowlines/22.svg'
+keepAspectRatio: true
+---
+
 ## Hero Section / Greeter
 
 **This exampleSite is deployed on Github Pages within it's theme repository.**
