@@ -55,7 +55,7 @@
     <loc>http://localhost:1313/id/tags/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     <changefreq>always</changefreq>
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/tags/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/" />
     <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/" />
   </url>
   <url>
@@ -156,21 +156,21 @@
     <loc>http://localhost:1313/id/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
     <changefreq>always</changefreq>
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/" />
     <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/" />
   </url>
   <url>
     <loc>http://localhost:1313/id/author/</loc>
     
     <changefreq>always</changefreq>
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/author/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/author/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/author/" />
     <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/author/" />
   </url>
   <url>
     <loc>http://localhost:1313/id/categories/</loc>
     
     <changefreq>always</changefreq>
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/categories/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/categories/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/categories/" />
     <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/categories/" />
   </url>
   <url>
@@ -212,7 +212,7 @@
     <loc>http://localhost:1313/id/series/</loc>
     
     <changefreq>always</changefreq>
-    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/series/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/series/" />
+    <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/series/" />
     <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/series/" />
   </url>
 </urlset>

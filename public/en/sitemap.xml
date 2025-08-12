@@ -3,12 +3,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/about/</loc>
-    <lastmod>2025-08-12T22:47:24+00:00</lastmod>
+    <lastmod>2025-08-12T23:03:05+00:00</lastmod>
     </url>
   <url>
     <loc>http://localhost:1313/en/author/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/author/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/author/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/author/" />
     <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/author/" />
   </url>
   <url>
@@ -28,13 +28,13 @@
   <url>
     <loc>http://localhost:1313/en/categories/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/categories/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/categories/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/categories/" />
     <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/categories/" />
   </url>
   <url>
     <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/tags/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/tags/" />
     <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/tags/" />
   </url>
   <url>
@@ -219,8 +219,8 @@
     </url>
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-08-12T22:17:20+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/" />
+    <lastmod>2025-08-12T23:03:05+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/" />
     <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/" />
   </url>
   <url>
@@ -259,7 +259,7 @@
   <url>
     <loc>http://localhost:1313/en/series/</loc>
     
-    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/series/" /><xhtml:link rel="alternate" hreflang="it-IT" href="http://localhost:1313/it/series/" />
+    <xhtml:link rel="alternate" hreflang="id-ID" href="http://localhost:1313/id/series/" />
     <xhtml:link rel="alternate" hreflang="en-US" href="http://localhost:1313/en/series/" />
   </url>
   <url>

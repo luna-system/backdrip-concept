@@ -30,9 +30,9 @@
     [id.sitemap]
         changeFreq = 'always' ## Change posts listings layout
 
-[it]
-    contentDir = 'content/it'
-    disabled = false
-    languageCode = 'it-IT'
-    languageDirection = 'ltr'
-    languageName = 'Italian'
+# [it]
+#     contentDir = 'content/it'
+#     disabled = false
+#     languageCode = 'it-IT'
+#     languageDirection = 'ltr'
+#     languageName = 'Italian'
