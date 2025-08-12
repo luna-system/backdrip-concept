@@ -1,11 +1,11 @@
-[[main]]
-  name       = 'Fork!'
-  identifier = 'fork'
-  weight     = 3
-  url        = 'https://github.com/foxihd/hugo-brewm'
-  pre        = 'github'
-  [[main.params]]
-    target   = '_blank'
+# [[main]]
+#   name       = 'Fork!'
+#   identifier = 'fork'
+#   weight     = 3
+#   url        = 'https://github.com/foxihd/hugo-brewm'
+#   pre        = 'github'
+#   [[main.params]]
+#     target   = '_blank'
 
 [[main]]
   name       = 'Series'
@@ -174,18 +174,11 @@
 [[more]]
   name       = 'About'
   identifier = 'about'
-  pageRef    = '/'
+  pageRef    = '/about'
   weight     = 5
 
   [[more]]
-  name       = 'Sustainability'
-  identifier = 'sustainability'
-  pageRef    = '/'
-  parent     = 'about'
-  weight     = 1
-
-  [[more]]
-  name       = 'Author'
+  name       = 'Authors'
   identifier = 'author'
   pageRef    = '/author'
   parent     = 'about'
@@ -210,31 +203,6 @@
   pageRef    = '/'
   weight     = 3
   pre        = 'mastodon'
-
-[[more]]
-  name       = 'More Menu'
-  identifier = 'more.menu'
-  weight     = 99
-
-  [[more]]
-    name       = 'That'
-    identifier = 'more.menu.that'
-    parent     = 'more.menu'
-
-    [[more]]
-      name       = 'Never'
-      identifier = 'more.menu.that.never'
-      parent     = 'more.menu.that'
-
-      [[more]]
-        name       = 'Too'
-        identifier = 'more.menu.that.never.too'
-        parent     = 'more.menu.that.never'
-
-        [[more]]
-          name       = 'Deep'
-          identifier = 'more.menu.that.never.too.deep'
-          parent     = 'more.menu.that.never.too'
 
 [[footer]]
   identifier = 'figma'
@@ -263,16 +231,3 @@
   weight     = 4
   name       = 'linkedin'
   pre        = 'linkedin'
-
-[[footer]]
-  identifier = 'karyakarsa'
-  pageRef    = '/'
-  weight     = 5
-  name       = 'karya karsa'
-  pre        = 'karyakarsa'
-
-[[contrib]]
-  identifier = 'githubsponsors'
-  url        = 'https://github.com/sponsors/foxihd/'
-  name       = 'Become Github Sponsors'
-  pre        = 'githubsponsors'

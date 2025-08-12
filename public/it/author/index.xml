@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Author on Example</title>
-    <link>http://localhost:1313/hugo-brewm/it/author/</link>
-    <description>Recent Posts in Author on Example</description>
+    <title>Author on backdrip</title>
+    <link>http://localhost:1313/it/author/</link>
+    <description>Recent Posts in Author on backdrip</description>
     <generator>Hugo 0.148.2</generator>
     <language>it-IT</language>
     <managingEditor>Author Name</managingEditor>
     
       <webMaster>Author Name</webMaster>
-    <lastBuildDate>Tue, 12 Aug 2025 22:16:53 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-brewm/it/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 23:00:31 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/it/author/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

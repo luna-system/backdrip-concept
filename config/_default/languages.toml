@@ -1,7 +1,7 @@
 [en]
     contentDir = 'content/en'
     disabled = false
-    languageCode = 'en-GB'
+    languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
     [en.pagination]
